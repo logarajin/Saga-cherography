@@ -1,0 +1,12 @@
+F:\SW\vinsguru-blog-code-samples-master\vinsguru-blog-code-samples-master\architectural-pattern\saga-choreography\common-dto\src\main\java\com\vinsguru\dto\InventoryDto.java
+F:\SW\vinsguru-blog-code-samples-master\vinsguru-blog-code-samples-master\architectural-pattern\saga-choreography\common-dto\src\main\java\com\vinsguru\events\order\OrderEvent.java
+F:\SW\vinsguru-blog-code-samples-master\vinsguru-blog-code-samples-master\architectural-pattern\saga-choreography\common-dto\src\main\java\com\vinsguru\events\payment\PaymentEvent.java
+F:\SW\vinsguru-blog-code-samples-master\vinsguru-blog-code-samples-master\architectural-pattern\saga-choreography\common-dto\src\main\java\com\vinsguru\dto\PurchaseOrderDto.java
+F:\SW\vinsguru-blog-code-samples-master\vinsguru-blog-code-samples-master\architectural-pattern\saga-choreography\common-dto\src\main\java\com\vinsguru\events\payment\PaymentStatus.java
+F:\SW\vinsguru-blog-code-samples-master\vinsguru-blog-code-samples-master\architectural-pattern\saga-choreography\common-dto\src\main\java\com\vinsguru\dto\OrderRequestDto.java
+F:\SW\vinsguru-blog-code-samples-master\vinsguru-blog-code-samples-master\architectural-pattern\saga-choreography\common-dto\src\main\java\com\vinsguru\dto\PaymentDto.java
+F:\SW\vinsguru-blog-code-samples-master\vinsguru-blog-code-samples-master\architectural-pattern\saga-choreography\common-dto\src\main\java\com\vinsguru\events\inventory\InventoryEvent.java
+F:\SW\vinsguru-blog-code-samples-master\vinsguru-blog-code-samples-master\architectural-pattern\saga-choreography\common-dto\src\main\java\com\vinsguru\events\Event.java
+F:\SW\vinsguru-blog-code-samples-master\vinsguru-blog-code-samples-master\architectural-pattern\saga-choreography\common-dto\src\main\java\com\vinsguru\events\inventory\InventoryStatus.java
+F:\SW\vinsguru-blog-code-samples-master\vinsguru-blog-code-samples-master\architectural-pattern\saga-choreography\common-dto\src\main\java\com\vinsguru\events\order\OrderStatus.java
+F:\SW\vinsguru-blog-code-samples-master\vinsguru-blog-code-samples-master\architectural-pattern\saga-choreography\common-dto\src\main\java\com\vinsguru\dto\OrderResponseDto.java
